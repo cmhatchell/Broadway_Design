@@ -20,7 +20,7 @@ font-size: 70px;
 
 .background h2 {
   font-size: 18px;
-  
+
 }
 .nav-btn {
   font-size: 18px;
@@ -31,7 +31,15 @@ font-size: 70px;
   text-align: center;
 }
 
+.supporting h2 {
+  font-size: 32px;
+}
+
+.supporting h3 {
+  font-size: 23px;
+}
 .footer {
+  text-align: left;
   background-color: dimgrey;
   color: white;
   font-size: 11px;
